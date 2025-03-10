@@ -1,0 +1,1 @@
+El cliker basicamente o que hace es que cuenta todos los cliks del usuario y si si decea reiniciar los ciks lo puede hacer tambien saltaran mensajes cuando lelgues a una sierta cantidad de clicks en el codigo
